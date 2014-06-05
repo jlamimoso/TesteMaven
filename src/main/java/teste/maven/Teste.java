@@ -12,7 +12,7 @@ package teste.maven;
  */
 public class Teste {
     public static void main(String[] args) {
-        System.out.printf("Meu primeiro teste com o Maven\n");
+        System.out.printf("Alo mundo !!!!\n");
     }
     
 }
